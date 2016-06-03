@@ -1,0 +1,151 @@
+{\rtf1\ansi\ansicpg1252\deff0\uc1
+{\fonttbl
+{\f0\fnil\fcharset0\fprq0\fttruetype Times New Roman;}
+{\f1\fnil\fcharset0\fprq0\fttruetype Arial;}
+{\f2\fnil\fcharset0\fprq0\fttruetype Liberation Sans;}
+{\f3\fnil\fcharset0\fprq0\fttruetype Tahoma;}
+{\f4\fnil\fcharset0\fprq0\fttruetype Helv;}
+{\f5\fnil\fcharset0\fprq0\fttruetype Courier New;}}
+{\colortbl
+\red0\green0\blue0;
+\red255\green255\blue255;
+\red255\green255\blue255;
+\red0\green128\blue128;}
+{\stylesheet
+{\s8\tx1584\sbasedon37\snext35 Chapter Heading;}
+{\s52\fi-430\li720\sbasedon40 Upper Roman List;}
+{\s21\tqc\tx4320\tqc\tx8640\f0\fs20\lang1033\sbasedon35 Footer;}
+{\s5\li360\sa119\f0\fs20\lang1033\sbasedon35 Body Text Indent;}
+{\s33\fi-430\li720\sbasedon40 Lower Case List;}
+{\s3\li1440\ri1440\sa119\sbasedon35 Block Text;}
+{\s4\f0\fs24\lang1033\sbasedon35 Body Text;}
+{\s50\fi-430\li720 Triangle List;}
+{\s27\qc\sb440\sa60\f0\fs22\b\lang1033\sbasedon35\snext35 Heading 1;}
+{\s28\qc\sb440\sa60\f4\fs20\b\lang1033\sbasedon35\snext35 Heading 2;}
+{\s29\sb440\sa60\tx5040\tx5760\tx8640\f0\fs24\b\lang1033\sbasedon35\snext35 Heading 3;}
+{\s30\sb440\sa60\f2\fs24\b\sbasedon35\snext35 Heading 4;}
+{\s31\fi-430\li720 Heart List;}
+{\s1\fi-430\li720 Arrowhead List;}
+{\s43\fi-430\li720 Square List;}
+{\s15\qc\sb240\sa119\f2\fs32\b\sbasedon35\snext35 Contents Header;}
+{\s41\f5\sbasedon35 Plain Text;}
+{\s9\f0\fs20\b\lang1033\sbasedon10\snext10 Comment Subject;}
+{\s7\fi-430\li720 Bullet List;}
+{\s36\sb99\sa99\f0\fs24\lang1033\sbasedon35 Normal (Web);}
+{\s40\fi-430\li720 Numbered List;}
+{\s17\fi-430\li720 Diamond List;}
+{\s25\fi-430\li720 Hand List;}
+{\s47\f0\fs24\lang1033\sbasedon48 Table Grid;}
+{\s51\fi-430\li720\sbasedon40 Upper Case List;}
+{\s26\tqc\tx4320\tqc\tx8640\f0\fs20\lang1033\sbasedon35 Header;}
+{\s6\fi-430\li720 Box List;}
+{\s35\f0\fs20\lang1033 Normal;}
+{\s45\f0\fs24\lang1033\sbasedon35\snext35 TOC 1;}
+{\s46\li400\f0\fs20\lang1033\sbasedon35\snext35 TOC 3;}
+{\s48\f0\fs24\lang1033 Table Normal;}
+{\s24\fs20\sbasedon35 Footnote Text;}
+{\s44\fi-430\li720 Star List;}
+{\s42\tx1584\sbasedon37\snext35 Section Heading;}
+{\s2\f3\fs16\lang1033\sbasedon35 Balloon Text;}
+{\s32\fi-430\li720 Implies List;}
+{\s49\fi-430\li720 Tick List;}
+{\s18\fi-288\li288\sbasedon35 Endnote;}
+{\s16\fi-430\li720 Dashed List;}
+{\s34\fi-430\li720\sbasedon35 Lower Roman List;}
+{\*\cs23\fs20\super Footnote Reference;}
+{\s20\sbasedon35 Endnote Text;}
+{\*\cs19\fs20\super Endnote Reference;}
+{\s37\tx431\sbasedon27\snext35 Numbered Heading 1;}
+{\s38\tx431\sbasedon28\snext35 Numbered Heading 2;}
+{\s39\tx431\sbasedon29\snext35 Numbered Heading 3;}
+{\s10\f0\fs20\lang1033\sbasedon35 Comment Text;}
+{\s22\fi-288\li288\fs20\sbasedon35 Footnote;}
+{\s11\fi-430\li720\sbasedon35\snext35 Contents 1;}
+{\s12\fi-430\li1440\sbasedon35\snext35 Contents 2;}
+{\s13\fi-430\li2160\sbasedon35\snext35 Contents 3;}
+{\s14\fi-430\li2880\sbasedon35\snext35 Contents 4;}}
+\kerning0\cf0\ftnbj\fet2\ftnstart1\ftnnar\aftnnar\ftnstart1\aftnstart1\aenddoc\titlepg\revprop3{\*\rdf}{\info\uc1}\deftab720\viewkind1\paperw12240\paperh15840\margl1440\margr1440\widowctrl
+{\header\pard\plain
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\itap0{\s35\f0\fs22\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s26\sl240\slmult1\itap0\tqc\tx4320\tqr\tx9360{\s26\f0\fs22\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s26\sl240\slmult1\itap0\tqc\tx4320\tqr\tx9360{\s26\f0\fs22\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s26\sl240\slmult1\itap0\tqc\tx4320\tqc\tx8640}
+{\headerf\pard\plain
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\itap0{\s35\cf3\f0\fs20\lang2057{\*\listtag0}\abinodiroverride\ltrch Programa PDDP }{\s35\f1\fs26\i\b\lang1033{\*\listtag0}\tab }}
+{\footer\pard\plain
+\pard\plain\ltrpar\ql\s21\sl240\slmult1\itap0\tqc\tx4320\tqc\tx8640{\s21\f1\fs26\i\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s21\sl240\slmult1\itap0\tqc\tx4320\tqc\tx8640}
+\sectd\sbknone\colsx360\margtsxn1710\margbsxn1644\pgncont\ltrsect
+\pard\plain\ltrpar\ql\s26\sl240\slmult1\itap0\tqc\tx4320\tqc\tx8640{\*\abitableprops table-col-spacing:0.02in; table-column-leftpos:-0.0750in; table-column-props:6.9640in/; table-sdh:0x22881f0}\par{\*\abicellprops left-attach:0; right-attach:1; top-attach:0; bot-attach:1; bot-color:000000; bot-style:solid; bot-thickness:0.000000in; left-color:000000; left-style:solid; left-thickness:0.000000in; right-color:000000; right-style:solid; right-thickness:0.000000in; top-color:000000; top-style:solid; top-thickness:0.000000in; background-color:ffffff}{
+\trowd \itap1\trgaph7\trql\trrh0\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \clvertalt\cltxlrtb\clbrdrt\brdrs\brdrw0\brdrcf0 \clcbpat1\clbrdrl\brdrs\brdrw0\brdrcf0 \clbrdrb\brdrs\brdrw0\brdrcf0 \clbrdrr\brdrs\brdrw0\brdrcf0 \cellx9934
+\pard\plain\ltrpar\qc\s35\sl240\slmult1\intbl\itap1{\s35\f0\fs24\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Requisi\'e7\'e3o de Mudan\'e7a}\cell{\*\abiendcell}\row}{\*\abiendtable}{\*\abitableprops table-col-spacing:0.02in; table-column-leftpos:-0.0750in; table-column-props:4.6321in/2.3119in/; table-sdh:0x22620f0}\par{\*\abicellprops left-attach:0; right-attach:1; top-attach:0; bot-attach:1; bot-color:000000; bot-style:solid; bot-thickness:0.000000in; left-color:000000; left-style:solid; left-thickness:0.000000in; right-color:000000; right-style:solid; right-thickness:0.000000in; top-color:000000; top-style:solid; top-thickness:0.000000in; background-color:ffffff}{
+\trowd \itap1\trgaph7\trql\trrh0\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \clvertalt\cltxlrtb\clbrdrt\brdrs\brdrw0\brdrcf0 \clcbpat1\clbrdrl\brdrs\brdrw0\brdrcf0 \clbrdrb\brdrs\brdrw0\brdrcf0 \clbrdrr\brdrs\brdrw0\brdrcf0 \cellx6576\clvertalt\cltxlrtb\clbrdrt\brdrs\brdrw0\brdrcf0 \clcbpat1\clbrdrl\brdrs\brdrw0\brdrcf0 \clbrdrb\brdrs\brdrw0\brdrcf0 \clbrdrr\brdrs\brdrw0\brdrcf0 \cellx9905
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1{\s35\f0\fs22\b\lang1033{\*\listtag0}Projeto: }\cell{\*\abiendcell}{\*\abicellprops left-attach:1; right-attach:2; top-attach:0; bot-attach:1; bot-color:000000; bot-style:solid; bot-thickness:0.000000in; left-color:000000; left-style:solid; left-thickness:0.000000in; right-color:000000; right-style:solid; right-thickness:0.000000in; top-color:000000; top-style:solid; top-thickness:0.000000in; background-color:ffffff}
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1{\s35\f0\fs22\b\lang1033{\*\listtag0}Data: }\cell{\*\abiendcell}{\*\abicellprops left-attach:0; right-attach:1; top-attach:1; bot-attach:2; bot-color:000000; bot-style:solid; bot-thickness:0.000000in; left-color:000000; left-style:solid; left-thickness:0.000000in; right-color:000000; right-style:solid; right-thickness:0.000000in; top-color:000000; top-style:solid; top-thickness:0.000000in; background-color:ffffff}\row
+\trowd \itap1\trgaph7\trql\trrh0\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \clvertalt\cltxlrtb\clbrdrt\brdrs\brdrw0\brdrcf0 \clcbpat1\clbrdrl\brdrs\brdrw0\brdrcf0 \clbrdrb\brdrs\brdrw0\brdrcf0 \clbrdrr\brdrs\brdrw0\brdrcf0 \cellx6576\clvertalt\cltxlrtb\clbrdrt\brdrs\brdrw0\brdrcf0 \clcbpat1\clbrdrl\brdrs\brdrw0\brdrcf0 \clbrdrb\brdrs\brdrw0\brdrcf0 \clbrdrr\brdrs\brdrw0\brdrcf0 \cellx9905
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1{\s35\f0\fs22\b\lang1033{\*\listtag0}Requerente:}\cell{\*\abiendcell}{\*\abicellprops left-attach:1; right-attach:2; top-attach:1; bot-attach:2; bot-color:000000; bot-style:solid; bot-thickness:0.000000in; left-color:000000; left-style:solid; left-thickness:0.000000in; right-color:000000; right-style:solid; right-thickness:0.000000in; top-color:000000; top-style:solid; top-thickness:0.000000in; background-color:ffffff}
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1{\s35\f0\fs22\b\lang1033{\*\listtag0}N\'ba:}\cell{\*\abiendcell}{\*\abicellprops left-attach:0; right-attach:2; top-attach:2; bot-attach:3; bot-color:000000; bot-style:solid; bot-thickness:0.000000in; left-color:000000; left-style:solid; left-thickness:0.000000in; right-color:000000; right-style:solid; right-thickness:0.000000in; top-color:000000; top-style:solid; top-thickness:0.000000in; background-color:ffffff}\row
+\trowd \itap1\trgaph7\trql\trrh0\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \clvertalt\cltxlrtb\clbrdrt\brdrs\brdrw0\brdrcf0 \clcbpat1\clbrdrl\brdrs\brdrw0\brdrcf0 \clbrdrb\brdrs\brdrw0\brdrcf0 \clbrdrr\brdrs\brdrw0\brdrcf0 \cellx9905
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1{\s35\f0\fs22\b\lang1033{\*\listtag0}Categoria da mudan\'e7a (Op\'e7\'f5es):}{\s35\f0\fs22\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1\tx2340\tx4860\tx6750{\s35\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \uc0\u9633  Cronograma\tab \uc0\u9633  Custo\tab \uc0\u9633  Escopo\tab \uc0\u9633  Requisitos/Entreg\'e1veis}{\s35\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1\tx2340\tx4860\tx6750{\s35\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \uc0\u9633  Teste/Qualidade        \uc0\u9633  Recursos\tab }\cell{\*\abiendcell}{\*\abicellprops left-attach:0; right-attach:2; top-attach:3; bot-attach:4; bot-color:000000; bot-style:solid; bot-thickness:0.000000in; left-color:000000; left-style:solid; left-thickness:0.000000in; right-color:000000; right-style:solid; right-thickness:0.000000in; top-color:000000; top-style:solid; top-thickness:0.000000in; background-color:ffffff}\row
+\trowd \itap1\trgaph7\trql\trrh0\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \clvertalt\cltxlrtb\clbrdrt\brdrs\brdrw0\brdrcf0 \clcbpat1\clbrdrl\brdrs\brdrw0\brdrcf0 \clbrdrb\brdrs\brdrw0\brdrcf0 \clbrdrr\brdrs\brdrw0\brdrcf0 \cellx9905
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1{\s35\f0\fs22\b\lang1033{\*\listtag0}A mudan\'e7a afeta (Op\'e7\'f5es):}{\s35\f0\fs22\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1\tx2340\tx4860\tx6750{\s35\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \uc0\u9633  A\'e7\'e3o corretiva\tab \uc0\u9633  A\'e7\'e3o preventiva\tab \uc0\u9633  Defeito de reparo\tab \uc0\u9633  Atualiza\'e7\'f5es}{\s35\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1\tx2340\tx4860\tx6750{\s35\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \uc0\u9633  Outros}\cell{\*\abiendcell}{\*\abicellprops left-attach:0; right-attach:2; top-attach:4; bot-attach:5; bot-color:000000; bot-style:solid; bot-thickness:0.000000in; left-color:000000; left-style:solid; left-thickness:0.000000in; right-color:000000; right-style:solid; right-thickness:0.000000in; top-color:000000; top-style:solid; top-thickness:0.000000in; background-color:ffffff}\row
+\trowd \itap1\trgaph7\trql\trrh0\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \clvertalt\cltxlrtb\clbrdrt\brdrs\brdrw0\brdrcf0 \clcbpat1\clbrdrl\brdrs\brdrw0\brdrcf0 \clbrdrb\brdrs\brdrw0\brdrcf0 \clbrdrr\brdrs\brdrw0\brdrcf0 \cellx9905
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1{\s35\f0\fs22\b\lang1033{\*\listtag0}Descreva a mudan\'e7a requisitada:}{\s35\f0\fs22\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1{\s35\f0\fs22\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1{\s35\f0\fs22\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1\cell{\*\abiendcell}{\*\abicellprops left-attach:0; right-attach:2; top-attach:5; bot-attach:6; bot-color:000000; bot-style:solid; bot-thickness:0.000000in; left-color:000000; left-style:solid; left-thickness:0.000000in; right-color:000000; right-style:solid; right-thickness:0.000000in; top-color:000000; top-style:solid; top-thickness:0.000000in; background-color:ffffff}\row
+\trowd \itap1\trgaph7\trql\trrh0\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \clvertalt\cltxlrtb\clbrdrt\brdrs\brdrw0\brdrcf0 \clcbpat1\clbrdrl\brdrs\brdrw0\brdrcf0 \clbrdrb\brdrs\brdrw0\brdrcf0 \clbrdrr\brdrs\brdrw0\brdrcf0 \cellx9905
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1{\s35\f0\fs22\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Descreva o motivo da requisi\'e7\'e3o:}{\s35\f0\fs22\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1{\s35\f0\fs22\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1{\s35\f0\fs22\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1\cell{\*\abiendcell}{\*\abicellprops left-attach:0; right-attach:2; top-attach:6; bot-attach:7; bot-color:000000; bot-style:solid; bot-thickness:0.000000in; left-color:000000; left-style:solid; left-thickness:0.000000in; right-color:000000; right-style:solid; right-thickness:0.000000in; top-color:000000; top-style:solid; top-thickness:0.000000in; background-color:ffffff}\row
+\trowd \itap1\trgaph7\trql\trrh0\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \clvertalt\cltxlrtb\clbrdrt\brdrs\brdrw0\brdrcf0 \clcbpat1\clbrdrl\brdrs\brdrw0\brdrcf0 \clbrdrb\brdrs\brdrw0\brdrcf0 \clbrdrr\brdrs\brdrw0\brdrcf0 \cellx9905
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1{\s35\f0\fs22\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Descreva todas as alternativas dispon\'edveis:}{\s35\f0\fs22\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1{\s35\f0\fs22\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1{\s35\f0\fs22\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1\cell{\*\abiendcell}{\*\abicellprops left-attach:0; right-attach:2; top-attach:7; bot-attach:8; bot-color:000000; bot-style:solid; bot-thickness:0.000000in; left-color:000000; left-style:solid; left-thickness:0.000000in; right-color:000000; right-style:solid; right-thickness:0.000000in; top-color:000000; top-style:solid; top-thickness:0.000000in; background-color:ffffff}\row
+\trowd \itap1\trgaph7\trql\trrh0\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \clvertalt\cltxlrtb\clbrdrt\brdrs\brdrw0\brdrcf0 \clcbpat1\clbrdrl\brdrs\brdrw0\brdrcf0 \clbrdrb\brdrs\brdrw0\brdrcf0 \clbrdrr\brdrs\brdrw0\brdrcf0 \cellx9905
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1{\s35\f0\fs22\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Descreva qualquer mudan\'e7a t\'e9cnica requisitada para implementar esta mudan\'e7a:}{\s35\f0\fs22\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1{\s35\f0\fs22\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1{\s35\f0\fs22\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1\cell{\*\abiendcell}{\*\abicellprops left-attach:0; right-attach:2; top-attach:8; bot-attach:9; bot-color:000000; bot-style:solid; bot-thickness:0.000000in; left-color:000000; left-style:solid; left-thickness:0.000000in; right-color:000000; right-style:solid; right-thickness:0.000000in; top-color:000000; top-style:solid; top-thickness:0.000000in; background-color:ffffff}\row
+\trowd \itap1\trgaph7\trql\trrh0\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \clvertalt\cltxlrtb\clbrdrt\brdrs\brdrw0\brdrcf0 \clcbpat1\clbrdrl\brdrs\brdrw0\brdrcf0 \clbrdrb\brdrs\brdrw0\brdrcf0 \clbrdrr\brdrs\brdrw0\brdrcf0 \cellx9905
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1{\s35\f0\fs22\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Descreva os riscos a serem considerados nesta mudan\'e7a:}{\s35\f0\fs22\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1{\s35\f0\fs22\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1{\s35\f0\fs22\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1\cell{\*\abiendcell}{\*\abicellprops left-attach:0; right-attach:2; top-attach:9; bot-attach:10; bot-color:000000; bot-style:solid; bot-thickness:0.000000in; left-color:000000; left-style:solid; left-thickness:0.000000in; right-color:000000; right-style:solid; right-thickness:0.000000in; top-color:000000; top-style:solid; top-thickness:0.000000in; background-color:ffffff}\row
+\trowd \itap1\trgaph7\trql\trrh0\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \clvertalt\cltxlrtb\clbrdrt\brdrs\brdrw0\brdrcf0 \clcbpat1\clbrdrl\brdrs\brdrw0\brdrcf0 \clbrdrb\brdrs\brdrw0\brdrcf0 \clbrdrr\brdrs\brdrw0\brdrcf0 \cellx9905
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1{\s35\f0\fs22\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Estime os recursos e custos necess\'e1rios para implementar esta mudan\'e7a:}{\s35\f0\fs22\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1{\s35\f0\fs22\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1{\s35\f0\fs22\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1\cell{\*\abiendcell}{\*\abicellprops left-attach:0; right-attach:2; top-attach:10; bot-attach:11; bot-color:000000; bot-style:solid; bot-thickness:0.000000in; left-color:000000; left-style:solid; left-thickness:0.000000in; right-color:000000; right-style:solid; right-thickness:0.000000in; top-color:000000; top-style:solid; top-thickness:0.000000in; background-color:ffffff}\row
+\trowd \itap1\trgaph7\trql\trrh0\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \clvertalt\cltxlrtb\clbrdrt\brdrs\brdrw0\brdrcf0 \clcbpat1\clbrdrl\brdrs\brdrw0\brdrcf0 \clbrdrb\brdrs\brdrw0\brdrcf0 \clbrdrr\brdrs\brdrw0\brdrcf0 \cellx9905
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1{\s35\f0\fs22\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Descreva as implica\'e7\'f5es de qualidade:}{\s35\f0\fs22\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1{\s35\f0\fs22\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1\cell{\*\abiendcell}{\*\abicellprops left-attach:0; right-attach:2; top-attach:11; bot-attach:12; bot-color:000000; bot-style:solid; bot-thickness:0.000000in; left-color:000000; left-style:solid; left-thickness:0.000000in; right-color:000000; right-style:solid; right-thickness:0.000000in; top-color:000000; top-style:solid; top-thickness:0.000000in; background-color:ffffff}\row
+\trowd \itap1\trgaph7\trql\trrh0\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \clvertalt\cltxlrtb\clbrdrt\brdrs\brdrw0\brdrcf0 \clcbpat1\clbrdrl\brdrs\brdrw0\brdrcf0 \clbrdrb\brdrs\brdrw0\brdrcf0 \clbrdrr\brdrs\brdrw0\brdrcf0 \cellx9905
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1{\s35\f0\fs22\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Disposi\'e7\'e3o: }{\s35\f0\fs22\lang1033{\*\listtag0}\uc0\u9633  Aprovada\tab \uc0\u9633  Rejeitada\tab \uc0\u9633  Deferida}\cell{\*\abiendcell}{\*\abicellprops left-attach:0; right-attach:2; top-attach:12; bot-attach:13; bot-color:000000; bot-style:solid; bot-thickness:0.000000in; left-color:000000; left-style:solid; left-thickness:0.000000in; right-color:000000; right-style:solid; right-thickness:0.000000in; top-color:000000; top-style:solid; top-thickness:0.000000in; background-color:ffffff}\row
+\trowd \itap1\trgaph7\trql\trrh0\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \clvertalt\cltxlrtb\clbrdrt\brdrs\brdrw0\brdrcf0 \clcbpat1\clbrdrl\brdrs\brdrw0\brdrcf0 \clbrdrb\brdrs\brdrw0\brdrcf0 \clbrdrr\brdrs\brdrw0\brdrcf0 \cellx9905
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1{\s35\f0\fs22\b\lang1033{\*\listtag0}Justificativa para aprova\'e7\'e3o, rejei\'e7\'e3o ou deferimento:}{\s35\f0\fs22\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1{\s35\f0\fs22\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1\cell{\*\abiendcell}\row}{\*\abiendtable}
+\pard\plain\ltrpar\ql\itap0{\*\abitableprops table-col-spacing:0.02in; table-column-leftpos:-0.0750in; table-column-props:6.9446in/; table-sdh:0x228c520}\par{\*\abicellprops left-attach:0; right-attach:1; top-attach:0; bot-attach:1; bot-color:000000; bot-style:solid; bot-thickness:0.000000in; left-color:000000; left-style:solid; left-thickness:0.000000in; right-color:000000; right-style:solid; right-thickness:0.000000in; top-color:000000; top-style:solid; top-thickness:0.000000in; background-color:ffffff}{
+\trowd \itap1\trgaph7\trql\trrh0\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \clvertalt\cltxlrtb\clbrdrt\brdrs\brdrw0\brdrcf0 \clcbpat1\clbrdrl\brdrs\brdrw0\brdrcf0 \clbrdrb\brdrs\brdrw0\brdrcf0 \clbrdrr\brdrs\brdrw0\brdrcf0 \cellx9906
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1{\s35\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch Quadro de aprova\'e7\'e3o de mudan\'e7a}{\s35\f0\fs22\b\lang1033{\*\listtag0}:}\cell{\*\abiendcell}\row}{\*\abiendtable}{\*\abitableprops table-col-spacing:0.02in; table-column-leftpos:-0.0750in; table-column-props:6.24cm/6.74cm/4.75cm/; table-sdh:0x228f7b0}\par{\*\abicellprops left-attach:0; right-attach:1; top-attach:0; bot-attach:1; bot-color:000000; bot-style:solid; bot-thickness:0.000000in; left-color:000000; left-style:solid; left-thickness:0.000000in; right-color:000000; right-style:solid; right-thickness:0.000000in; top-color:000000; top-style:solid; top-thickness:0.000000in; background-color:ffffff}{
+\trowd \itap1\trgaph7\trql\trrh0\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \clvertalt\cltxlrtb\clbrdrt\brdrs\brdrw0\brdrcf0 \clcbpat1\clbrdrl\brdrs\brdrw0\brdrcf0 \clbrdrb\brdrs\brdrw0\brdrcf0 \clbrdrr\brdrs\brdrw0\brdrcf0 \cellx3443\clvertalt\cltxlrtb\clbrdrt\brdrs\brdrw0\brdrcf0 \clcbpat1\clbrdrl\brdrs\brdrw0\brdrcf0 \clbrdrb\brdrs\brdrw0\brdrcf0 \clbrdrr\brdrs\brdrw0\brdrcf0 \cellx7264\clvertalt\cltxlrtb\clbrdrt\brdrs\brdrw0\brdrcf0 \clcbpat1\clbrdrl\brdrs\brdrw0\brdrcf0 \clbrdrb\brdrs\brdrw0\brdrcf0 \clbrdrr\brdrs\brdrw0\brdrcf0 \cellx9957
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1{\s35\f0\fs22\b\lang1033{\*\listtag0}Nome}\cell{\*\abiendcell}{\*\abicellprops left-attach:1; right-attach:2; top-attach:0; bot-attach:1; bot-color:000000; bot-style:solid; bot-thickness:0.000000in; left-color:000000; left-style:solid; left-thickness:0.000000in; right-color:000000; right-style:solid; right-thickness:0.000000in; top-color:000000; top-style:solid; top-thickness:0.000000in; background-color:ffffff}
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1{\s35\f0\fs22\b\lang1033{\*\listtag0}Assinatura}\cell{\*\abiendcell}{\*\abicellprops left-attach:2; right-attach:3; top-attach:0; bot-attach:1; bot-color:000000; bot-style:solid; bot-thickness:0.000000in; left-color:000000; left-style:solid; left-thickness:0.000000in; right-color:000000; right-style:solid; right-thickness:0.000000in; top-color:000000; top-style:solid; top-thickness:0.000000in; background-color:ffffff}
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\intbl\itap1{\s35\f0\fs22\b\lang1033{\*\listtag0}Data}\cell{\*\abiendcell}{\*\abicellprops left-attach:0; right-attach:1; top-attach:1; bot-attach:2; bot-color:000000; bot-style:solid; bot-thickness:0.000000in; left-color:000000; left-style:solid; left-thickness:0.000000in; right-color:000000; right-style:solid; right-thickness:0.000000in; top-color:000000; top-style:solid; top-thickness:0.000000in; background-color:ffffff}\row
+\trowd \itap1\trgaph7\trql\trrh0\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \clvertalt\cltxlrtb\clbrdrt\brdrs\brdrw0\brdrcf0 \clcbpat1\clbrdrl\brdrs\brdrw0\brdrcf0 \clbrdrb\brdrs\brdrw0\brdrcf0 \clbrdrr\brdrs\brdrw0\brdrcf0 \cellx3443\clvertalt\cltxlrtb\clbrdrt\brdrs\brdrw0\brdrcf0 \clcbpat1\clbrdrl\brdrs\brdrw0\brdrcf0 \clbrdrb\brdrs\brdrw0\brdrcf0 \clbrdrr\brdrs\brdrw0\brdrcf0 \cellx7264\clvertalt\cltxlrtb\clbrdrt\brdrs\brdrw0\brdrcf0 \clcbpat1\clbrdrl\brdrs\brdrw0\brdrcf0 \clbrdrb\brdrs\brdrw0\brdrcf0 \clbrdrr\brdrs\brdrw0\brdrcf0 \cellx9957
+\pard\plain\ltrpar\ql\intbl\itap1\cell{\*\abiendcell}{\*\abicellprops left-attach:1; right-attach:2; top-attach:1; bot-attach:2; bot-color:000000; bot-style:solid; bot-thickness:0.000000in; left-color:000000; left-style:solid; left-thickness:0.000000in; right-color:000000; right-style:solid; right-thickness:0.000000in; top-color:000000; top-style:solid; top-thickness:0.000000in; background-color:ffffff}
+\pard\plain\ltrpar\ql\intbl\itap1\cell{\*\abiendcell}{\*\abicellprops left-attach:2; right-attach:3; top-attach:1; bot-attach:2; bot-color:000000; bot-style:solid; bot-thickness:0.000000in; left-color:000000; left-style:solid; left-thickness:0.000000in; right-color:000000; right-style:solid; right-thickness:0.000000in; top-color:000000; top-style:solid; top-thickness:0.000000in; background-color:ffffff}
+\pard\plain\ltrpar\ql\intbl\itap1\cell{\*\abiendcell}{\*\abicellprops left-attach:0; right-attach:1; top-attach:2; bot-attach:3; bot-color:000000; bot-style:solid; bot-thickness:0.000000in; left-color:000000; left-style:solid; left-thickness:0.000000in; right-color:000000; right-style:solid; right-thickness:0.000000in; top-color:000000; top-style:solid; top-thickness:0.000000in; background-color:ffffff}\row
+\trowd \itap1\trgaph7\trql\trrh0\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \clvertalt\cltxlrtb\clbrdrt\brdrs\brdrw0\brdrcf0 \clcbpat1\clbrdrl\brdrs\brdrw0\brdrcf0 \clbrdrb\brdrs\brdrw0\brdrcf0 \clbrdrr\brdrs\brdrw0\brdrcf0 \cellx3443\clvertalt\cltxlrtb\clbrdrt\brdrs\brdrw0\brdrcf0 \clcbpat1\clbrdrl\brdrs\brdrw0\brdrcf0 \clbrdrb\brdrs\brdrw0\brdrcf0 \clbrdrr\brdrs\brdrw0\brdrcf0 \cellx7264\clvertalt\cltxlrtb\clbrdrt\brdrs\brdrw0\brdrcf0 \clcbpat1\clbrdrl\brdrs\brdrw0\brdrcf0 \clbrdrb\brdrs\brdrw0\brdrcf0 \clbrdrr\brdrs\brdrw0\brdrcf0 \cellx9957
+\pard\plain\ltrpar\ql\intbl\itap1\cell{\*\abiendcell}{\*\abicellprops left-attach:1; right-attach:2; top-attach:2; bot-attach:3; bot-color:000000; bot-style:solid; bot-thickness:0.000000in; left-color:000000; left-style:solid; left-thickness:0.000000in; right-color:000000; right-style:solid; right-thickness:0.000000in; top-color:000000; top-style:solid; top-thickness:0.000000in; background-color:ffffff}
+\pard\plain\ltrpar\ql\intbl\itap1\cell{\*\abiendcell}{\*\abicellprops left-attach:2; right-attach:3; top-attach:2; bot-attach:3; bot-color:000000; bot-style:solid; bot-thickness:0.000000in; left-color:000000; left-style:solid; left-thickness:0.000000in; right-color:000000; right-style:solid; right-thickness:0.000000in; top-color:000000; top-style:solid; top-thickness:0.000000in; background-color:ffffff}
+\pard\plain\ltrpar\ql\intbl\itap1\cell{\*\abiendcell}\row}{\*\abiendtable}
+\pard\plain\ltrpar\ql\itap0\par}
